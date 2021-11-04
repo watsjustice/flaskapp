@@ -1,0 +1,6 @@
+1 - flask
+2 - requests
+3 - bs4
+4 - re
+5 - random
+6 - lxml
