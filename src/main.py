@@ -2,7 +2,7 @@ import flask
 import re
 import random
 import requests
-from datachanger import flag
+
 
 
 users = {}
