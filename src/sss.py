@@ -28,7 +28,7 @@ for item in q:
 
 
 data_saver = {}
-for i in range(10):
+for i in range(10): #для изменения кол-ва пользователей
 
 
 	try:
@@ -68,6 +68,15 @@ for i in range(10):
 	except Exception as ex:
 		print(ex)
 		break
+
+
+
+
+	
+	
+
+
+
 
 
 
